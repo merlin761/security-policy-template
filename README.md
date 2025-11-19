@@ -3,7 +3,7 @@ This project focuses on implementing secure coding practices and security protoc
 Key Highlights
 
 Security by Design: Incorporating security measures early in development to allow proper testing and reduce attack surfaces.
-Risk & Cost Analysis: Includes a detailed table assessing risk levels, severity, and cost-benefit analysis to prioritize mitigation strategies.
+Risk & Cost Analysis: Includes a detailed table assessing risk levels, severity, and cost benefit analysis to prioritize mitigation strategies.
 Zero Trust Approach: Implements authentication, authorization, and accounting (AAA) frameworks, along with encryption at rest, in transit, and in use.
 Secure Coding Standards: Practices that help minimize vulnerabilities and prevent costly breaches.
 
@@ -14,11 +14,11 @@ To demonstrate how proactive security measures and DevSecOps practices can prote
 
 Comprehensive Coverage: Includes policies for access control, incident response, and data protection.
 Customizable: Easily adapt to organizational needs.
-Compliance-Oriented: Aligns with frameworks like NIST, ISO 27001, and CIS.
+Compliance Oriented: Aligns with frameworks like NIST, ISO 27001, and CIS.
 
 
 🔍 Why This Matters
-Security policies are the backbone of an organization’s cybersecurity posture. They define responsibilities, outline acceptable use, and mitigate risks by enforcing consistent practices. A well-structured policy ensures confidentiality, integrity, and availability of critical assets.
+Security policies are the backbone of an organization’s cybersecurity posture. They define responsibilities, outline acceptable use, and mitigate risks by enforcing consistent practices. A well structured policy ensures confidentiality, integrity, and availability of critical assets.
 
 📚 Best Practices & References
 
