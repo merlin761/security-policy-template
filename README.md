@@ -1,5 +1,5 @@
 
-This project focuses on implementing secure coding practices and security protocols learned throughout the course. It emphasizes the importance of integrating security from the very beginning of the software development lifecycle—starting at the design phase—rather than leaving it until the end. By adopting DevSecOps principles, we aim to reduce vulnerabilities, mitigate risks, and ensure robust system security.
+This project focuses on implementing secure coding practices and security protocols learned throughout the course. It emphasizes the importance of integrating security from the very beginning of the software development lifecycle starting at the design phase rather than leaving it until the end. By adopting DevSecOps principles, we aim to reduce vulnerabilities, mitigate risks, and ensure robust system security.
 Key Highlights
 
 Security by Design: Incorporating security measures early in development to allow proper testing and reduce attack surfaces.
